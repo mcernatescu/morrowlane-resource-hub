@@ -1,0 +1,4 @@
+# Public fictional training prototype: allow crawler access so page-level noindex can be read.
+# Search engines that honor the meta robots directive should not index pages.
+User-agent: *
+Allow: /
